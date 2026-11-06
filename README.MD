@@ -1,2 +1,2 @@
 #git lab demo project
-## Updated repository by teammate
+## Updated remotely by teammate
